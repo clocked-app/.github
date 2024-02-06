@@ -1,6 +1,8 @@
 # clocked-app
 
-clocked-app is a simple organization whose main objective is to provide work time calculation apps.
+clocked-app is an example organization whose main objective is to provide work time calculation apps.
+
+Created by [@vncsmyrnk](https://github.com/vncsmyrnk)
 
 ## Workflows
 
