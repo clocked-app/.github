@@ -2,8 +2,6 @@
 
 clocked-app is an example organization whose main objective is to provide work time calculation apps.
 
-Created by [@vncsmyrnk](https://github.com/vncsmyrnk)
-
 ## Workflows
 
 ![clocked app](https://raw.githubusercontent.com/clocked-app/.github/main/profile/clocked-ci-workflow.png)
@@ -11,6 +9,10 @@ Created by [@vncsmyrnk](https://github.com/vncsmyrnk)
 ## Producion environment
 
 *Yet to be done*
+
+### Authors
+
+- [@vncsmyrnk](https://github.com/vncsmyrnk)
 
 <!--
 
