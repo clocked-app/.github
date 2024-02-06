@@ -1,8 +1,14 @@
-## Hi there 👋
+# clocked-app
 
 clocked-app is a simple organization whose main objective is to provide work time calculation apps.
 
-Check the existing repos and apps to know more.
+## Workflows
+
+![clocked app](https://raw.githubusercontent.com/clocked-app/.github/main/profile/clocked-ci-workflow.png)
+
+## Producion environment
+
+*Yet to be done*
 
 <!--
 
